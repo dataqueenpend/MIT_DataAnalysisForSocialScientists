@@ -4,3 +4,4 @@ Notes, homeworks, datsets from MIT Data Analysis for Social Scientists course 20
 
 
 * [R - notes](https://github.com/dataqueenpend/MIT_DataAnalysisForSocialScientists/blob/main/r_notes.ipynb)
+* [Datasets](https://github.com/dataqueenpend/MIT_DataAnalysisForSocialScientists/tree/main/datasets)
